@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a sentiment analysis pipeline using **Natural Language Toolkit (NLTK)** within a Jupyter Notebook. It classifies tweets as **Positive** or **Negative** using a **Naive Bayes Classifier**. The project includes data preprocessing, feature extraction, model training, and evaluation, all executed in an interactive Jupyter environment.
+This project implements a sentiment analysis pipeline using **Natural Language Toolkit (NLTK)** within a Jupyter Notebook. It classifies tweets as either **Positive** or **Negative** using a **Naive Bayes Classifier**. The project includes data preprocessing, feature extraction, model training, and evaluation, all executed in an interactive Jupyter environment for ease of use and interactivity.
 
 ---
 
